@@ -1,5 +1,4 @@
 # Project Name
-
 Quick description of the project
 
 # Project Organization 
@@ -15,7 +14,7 @@ Quick description of the project
               └── figures        <- generated graphics and figures to be used in the report
       ├── src                    <- source code for use in this project
          │
-         ├── data                <- scripts to download data from original source
+         ├── handle_data        <- scripts to download data from original source
          │   └── make_dataset.py
          │
          ├── features            <- scripts to turn raw data into features for modeling
